@@ -1,3 +1,11 @@
-*.in
-*.out
+jrnkk.pyc
+ 
+jwkpx.in
+  
+ljmfk.out
+
 *.pyc
+
+*.in
+
+*.out
